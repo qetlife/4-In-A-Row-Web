@@ -2,6 +2,7 @@
 School Project
 
 ONLY WORKS ON MAC OR LINUX 
+
 For windows you need to change the way the xml is transmited through to the Server/Player.
 Windows uses '/n/r', MAC and LINUX uses '/n'. In The class UserXmlWriter, you have two methods readFullXML and sendFullXML. 
 Those need to be tweeked around for Windows users.
